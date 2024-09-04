@@ -2,7 +2,6 @@
 
 > A passionate programmer who loves to learn new things!
 
-- 🌱 I’m currently learning C#
 - 📫 How to reach me: mohammadhosseinarab110@gmail.com
 
 
